@@ -398,10 +398,10 @@ a:hover {
   font-size: 20px;
 }
 
-.contact-text-white{
-  color: #ffffff;
+.contact-text-white {
+  color: #ffffff !important;
   text-align: center;
-  /* Modifier le nom de la classe pour cette div afin de changer uniquement le texte du début dans la page contact */
+  /* Réussi */
 }
 
 @media (min-width: 768px) {
