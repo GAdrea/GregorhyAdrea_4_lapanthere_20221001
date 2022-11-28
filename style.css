@@ -398,6 +398,12 @@ a:hover {
   font-size: 20px;
 }
 
+.contact-text-white{
+  color: #ffffff;
+  text-align: center;
+  /* Modifier le nom de la classe pour cette div afin de changer uniquement le texte du début dans la page contact */
+}
+
 @media (min-width: 768px) {
   .site-navigation {
     position: absolute;
