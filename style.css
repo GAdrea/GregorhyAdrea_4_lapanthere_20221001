@@ -791,7 +791,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  background-color: rgba(0, 0, 0, 0.7);
   padding: 40px 40px 40px 40px;
 }
 
@@ -814,8 +814,7 @@ h4 {
 
 .tc-white {
   text-align: center;
-  color: #ffffff !important;
-  background-color: #000000;
+  color: #f3976c !important;
   /* remettre la couleur d'origine et virer le fond noir sauf pour le deuxième encadré (mettre le fond noir sur la couche supérieure) */
 }
 
