@@ -368,9 +368,7 @@ a:hover {
 }
 
 .description {
-  width: 56%;
   position: relative;
-  left: 222px;
   font-size: 20px;
 }
 
@@ -784,7 +782,7 @@ h4 {
 }
 
 .portfolio-thumb {
-  margin-bottom: 24px;
+  width: 100%;
 }
 
 .portfolio-row {
@@ -933,7 +931,6 @@ h4 {
     display: block;
     width: 100%;
   }
-
 }
 
 @media (max-width: 767px) {
